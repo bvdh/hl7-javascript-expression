@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ciUrl="" defaultVersion="current" defaultWorkgroup="" url="http://hl7.org/fhir/uv/javascript">
+<version code="current" url=""/>
+<artifactPageExtension value="-definitions"/>
+<artifactPageExtension value="-examples"/>
+<artifactPageExtension value="-mappings"/>
+<artifact id="Questionnaire/BMI" key="Questionnaire-BMI" name="BMI example"/>
+<artifact id="StructureDefinition/JavascriptLibrary" key="StructureDefinition-JavascriptLibrary" name="Javascript Library"/>
+<artifact id="ValueSet/JavascriptExpressionLanguageValueset" key="ValueSet-JavascriptExpressionLanguageValueset" name="Javascript and other expression languages"/>
+<artifact id="CodeSystem/JavaScriptExpressionCodes" key="CodeSystem-JavaScriptExpressionCodes" name="Javascript expression code system"/>
+<artifact id="StructureDefinition/JavascriptEnabledExpression" key="StructureDefinition-JavascriptEnabledExpression" name="JavascriptEnabledExpression"/>
+<artifact id="StructureDefinition/JavascriptExpression" key="StructureDefinition-JavascriptExpression" name="JavascriptExpression"/>
+<artifact id="StructureDefinition/JavascriptStructureMap" key="StructureDefinition-JavascriptStructureMap" name="JavascriptStructureMap"/>
+<artifact id="StructureDefinition/JavascriptTargetExpression" key="StructureDefinition-JavascriptTargetExpression" name="JavascriptTargetExpression"/>
+<artifact id="StructureDefinition/MyPatient" key="StructureDefinition-MyPatient" name="MyPatient"/>
+<artifact id="Patient/PatientExample" key="Patient-PatientExample" name="PatientExample"/>
+<artifact id="StructureDefinition/javascript-structuremap" key="StructureDefinition-javascript-structuremap" name="Structuremap javascript extension."/>
+<page key="NA" name="(NA)"/>
+<page key="many" name="(many)"/>
+<page key="artifacts" name="Artifacts Summary"/>
+<page key="implementation-considerations" name="Implementation considerations"/>
+<page key="mapping" name="Javascript for mapping"/>
+<page key="index" name="Javascript in FHIR expressions"/>
+<page key="toc" name="Table of Contents"/>
+</specification>
